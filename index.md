@@ -2,6 +2,12 @@
 ## Header level 2
 a ovo teks text he
 
+### Roadmap
+- [x] Add Rust snippet
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```rust
   fn main() {
       println!("Bok");
